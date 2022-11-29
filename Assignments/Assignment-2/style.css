@@ -1,0 +1,50 @@
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    text-align: justify;
+    background-color: rgb(255, 209, 153);
+
+}
+.heading{
+    text-align: center;
+    font-size: 48px;
+    text-decoration: underline;
+}
+.topic{
+    font-size: 36px;
+}
+.c1{
+    color: rgb(93, 2, 240);
+    background-color: rgb(176, 185, 177);
+    
+}
+.c2{
+    color: rgb(240, 236, 236);
+    background-color: rgb(109, 89, 89);
+}
+
+.c3{
+    color: #0000FF;
+    line-height: 2;
+    font-family: sans-serif, Helvetica, sans-serif;
+    background-color: rgb(216, 213, 10);
+}
+
+.c4{
+    color: #00FF00;
+    font-weight: bolder;
+    background-color: rgb(186, 15, 192);
+}
+
+.c5{
+    color: hsl(56, 100%, 41%);
+    stroke: antiquewhite;
+    background-color: rgb(96, 63, 139);
+}
+
+.c6{
+    color: hsla(0, 0%, 99%, 0.6);
+    background-color: rgb(44, 138, 8);
+}
+
