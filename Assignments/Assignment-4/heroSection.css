@@ -1,0 +1,90 @@
+h1{
+    color: #1f2638;
+    margin-left: 20px;
+  }
+  .text{
+    position: absolute;
+    font-size: 60px;
+    color: #1f2638;
+  }
+  ul{
+    position:absolute;
+    top: 345px;
+    left: 20px;
+    list-style-type: none;
+    color: #373e52;
+    font-family: Arial;
+    font-weight: bold;
+  }
+  li::before{
+    content: "✓";
+    color: #4a88f9;
+    border: 2px solid #4a88f9;
+    padding:1px 3px;
+    border-radius: 50px;
+    position: relative;
+    right: 30px;
+  }
+  p{
+    float: left;
+    margin: 50px;
+    position: relative;
+    left:350px;
+    bottom: 95px;
+    color: #394053;
+    font-family: Arial;
+    font-weight: bold;
+  }
+  .semi-title:hover{
+    color: #eb0f0f;
+  }
+  button{
+    position: relative;
+    left: 600px;
+    bottom:50px;
+    padding: 10px 15px;
+    border-radius: 4px;
+    background-color: #ffffff;
+    border: 1px solid #ecedf0;
+    font-weight: bold;
+  }
+  .btn-wrap {
+    position: relative;
+    top: 380px;
+    margin-left: 20px;
+  }
+  .btn-outer {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    height: 40px;
+    width: 30%;
+    background: #ffffff;
+    color: #afb3bf;
+    text-align: left;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  .btn-inner {
+    position: absolute;
+    top: 4px;
+    left: 310px;
+    line-height: 1px;
+    height: 30px;
+    color: lightcyan;
+    background-color: darkblue;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  .btn-inner:hover{
+    background-color: rgb(45, 45, 45);
+  }
+  img{
+    position: relative;
+    left: 50px;
+    top: 20px;
+    width: 650px;
+    border-radius: 9px;
+  }
