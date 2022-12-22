@@ -49,4 +49,3 @@ THEORY:
     
 CONCLUSION:
 We learnt to create a webpage using HTML elements like list tag, sementics tags, image, audio and video tag, text formatting tags and iframe tags.        
-Footer
